@@ -1,0 +1,4 @@
+interface:
+  display_name: "技能首页"
+  short_description: "不会选 skill 时，先帮你推荐一个，再问你确认"
+  default_prompt: "Use $skill-home to pick the best installed skill for my task, explain it simply, and ask before using it."
